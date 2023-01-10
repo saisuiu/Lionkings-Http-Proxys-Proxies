@@ -1,5 +1,6 @@
 # LionKings
 A large number of free HTTP proxies updated every 10 minutes.
+Keep http/s proxies fresh at all times.
 
 Get http/s proxies from around the world
 
