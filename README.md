@@ -10,5 +10,5 @@ Get the http/s proxy from China
 
 curl 'https://raw.githubusercontent.com/saisuiu/Lionkings-Http-Proxys-Proxies/main/cnfree.txt' -o proxy.txt
 
-If you need more and better proxies please contact Telegram @tcpion
+If you need more and better proxies please contact Telegram https://t.me/tcpion 
 We accept all customization requirements (including but not limited to SOCKS4/S HTTP/S CONNECT25/80 country, anonymity, latency, concurrency)
